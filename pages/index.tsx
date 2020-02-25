@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import { GoMarkGithub } from 'react-icons/go'
 import { ThemeProvider } from 'emotion-theming'
-import theme from './theme'
+import theme from '../themes/preset'
 
 const Home = () => (
   <ThemeProvider theme={theme}>

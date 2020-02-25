@@ -8,8 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "emotion-theming": "^10.0.27",
     "next": "9.2.2",
     "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "react-dom": "16.12.0",
+    "react-icons": "^3.9.0",
+    "rebass": "^4.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.4",
+    "@types/react": "^16.9.22",
+    "@types/rebass": "^4.0.4",
+    "typescript": "^3.8.2"
   }
 }
